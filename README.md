@@ -1,4 +1,4 @@
-https://2050.earth/ 이 웹사이트를 클론함
+https://2050.earth/ Cloned This Website
 
 지구 모양만 클론함
 
