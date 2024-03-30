@@ -5,3 +5,5 @@ https://2050.earth/ Cloned This Website
 나머지 UI, 예측 등등... 그런 것들은 구현하지 않음
 
 Use Live-Server lib
+
+node liver-server.js
