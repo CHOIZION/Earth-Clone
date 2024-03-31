@@ -6,4 +6,4 @@ https://2050.earth/ Cloned This Website
 
 Use Live-Server lib
 
-node liver-server.js
+node live-server.js 터미널에 입력
