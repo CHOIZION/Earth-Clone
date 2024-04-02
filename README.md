@@ -1,9 +1,9 @@
-https://2050.earth/ Cloned This Website
+https://2050.earth/ 이 웹사이트를 클론했습니다.
 
-지구 모양만 클론함
+지구 모양만 클론했습니다.
 
-나머지 UI, 예측 등등... 그런 것들은 구현하지 않음
+나머지 UI, 예측 등등... 은 구현하지 않았습니다.
 
-Use Live-Server lib
+라이브-서버 라이브러리 사용했습니다.
 
-node live-server.js 터미널에 입력
+node live-server.js 터미널에 입력하면 볼 수 있습니다.
